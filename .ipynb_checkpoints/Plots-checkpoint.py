@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-plt.style.use('/pscratch/sd/i/iago/iago.mplstyle')
+#plt.style.use('/pscratch/sd/i/iago/iago.mplstyle')
 colors = ['#5495CFFF', '#9E8ABCFF', '#5FB785FF', '#7C873EFF', '#F5AF4DFF', '#DB4743FF']
 
 def plot_mag_hist_comparison(cat1, cat2,
